@@ -2,5 +2,7 @@ title: Whiskey Rater
 description: Simple whiskey collection tracking app
 theme: jekyll-theme-cayman
 
-# Navigation
+# Navigation links
 show_downloads: false
+github:
+  is_project_page: false
